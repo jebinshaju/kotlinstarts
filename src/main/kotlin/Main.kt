@@ -1,6 +1,6 @@
 fun main(){
 
-    var ma = Int.MAX_VALUE
-    var mi = Int.MIN_VALUE
-    println("hello manda $ma min = $mi")
+    var ma = Long.MAX_VALUE
+    var mi = Long.MIN_VALUE
+    println("max = $ma \nmin = $mi")
 }
